@@ -1,0 +1,12 @@
+{
+    "name": "mango/template-engine",
+    "description": "Template engine / renderer for the MangoPHP framework.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "ketchums",
+            "email": "k3tchum@outlook.com"
+        }
+    ],
+    "require": {}
+}
