@@ -1,5 +1,5 @@
 {
-    "name": "mango/template-engine",
+    "name": "mango-php/template-engine",
     "description": "Template engine / renderer for the MangoPHP framework.",
     "type": "library",
     "authors": [
