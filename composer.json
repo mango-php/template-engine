@@ -8,5 +8,10 @@
             "email": "k3tchum@outlook.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Mango\\": "src/"
+        }
+    }
 }
